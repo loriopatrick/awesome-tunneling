@@ -84,6 +84,7 @@ easy tool to use, and is targeted at non-developers.
 * [KubeSail](https://kubesail.com/) - Company offering tunneling, dynamic DNS, and other services for self-hosting with Kubernetes.
 * [inlets](https://inlets.dev/) - Used to be [open source](https://github.com/inlets/inlets-archived); now focused on a polished commercial offering. Designed to work well with Kubernetes.
 * [LocalToNet](https://localtonet.com/) - Supports UDP. Free for a single tunnel. Paid supports custom domains.
+* [Playit.gg](https://playit.gg/) ![tunnelto github stars badge](https://img.shields.io/github/stars/playit-cloud/playit-agent?style=flat) - TCP & UDP support. Focused on game servers. Free static IPs & ports. Ability to tunnel a port range. Global network for low latency gaming. [Open source program](https://github.com/playit-cloud/playit-agent).
 
 # Reference
 
